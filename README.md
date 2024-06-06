@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/epukhanetiftekhar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/epukhanetiftekhar/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/epukhanet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/epukhanet" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucs9g3hkd4sr0zmo1qqu1yog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucs9g3hkd4sr0zmo1qqu1yog" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/epukhanetiftekhar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="epukhanetiftekhar/" height="30" width="40" /></a>
+<a href="https://fb.com/epukhanet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="epukhanet" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/@iftekhar_uddin_epu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@iftekhar_uddin_epu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,4 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iftekhar-uddin&show_icons=true&locale=en" alt="iftekhar-uddin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iftekhar-uddin&" alt="iftekhar-uddin" /></p>
-
